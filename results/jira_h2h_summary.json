@@ -1,0 +1,40 @@
+{
+ "dataset": "Apache Jira Issue Tracking (Zenodo 5665896), 1,013,964 issues, 647 projects; 834,559 usable after filters",
+ "tasks": {
+  "issuetype": "6-way choice",
+  "priority": "5-level ordinal (adjacent = partial credit)"
+ },
+ "vegaml": {
+  "protocol": "fit on 120 labelled train issues, eval 100, mode=auto (TTT heads served)",
+  "issue_disjoint": {
+   "n_train": 120,
+   "issuetype_acc": 0.71,
+   "priority_acc_adj1": 0.92,
+   "priority_acc_exact": 0.64
+  },
+  "project_disjoint": {
+   "n_train": 120,
+   "issuetype_acc": 0.75,
+   "priority_acc_adj1": 0.9,
+   "priority_acc_exact": 0.55
+  }
+ },
+ "laya": {
+  "protocol": "zero-shot english checkpoint, eval 100 (same eval indices)",
+  "issue_disjoint": {
+   "issuetype_acc": 0.64,
+   "priority_acc_adj1": 0.91,
+   "priority_acc_exact": 0.44
+  },
+  "project_disjoint": {
+   "issuetype_acc": 0.63,
+   "priority_acc_adj1": 0.87,
+   "priority_acc_exact": 0.48
+  }
+ },
+ "caveats": [
+  "vegaml fitted, laya zero-shot; laya.finetune not run (parity pending)",
+  "eval sets identical within each split but n=100, so +/-~5pp noise",
+  "dataset contains real-world spam issues (pharma etc.) - not filtered"
+ ]
+}

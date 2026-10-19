@@ -1,0 +1,16 @@
+{
+ "issue-disjoint": {
+  "n_eval": 100,
+  "predict_seconds": 69,
+  "issuetype_acc": 0.64,
+  "priority_acc_adj1": 0.91,
+  "priority_acc_exact": 0.44
+ },
+ "project-disjoint": {
+  "n_eval": 100,
+  "predict_seconds": 53,
+  "issuetype_acc": 0.63,
+  "priority_acc_adj1": 0.87,
+  "priority_acc_exact": 0.48
+ }
+}

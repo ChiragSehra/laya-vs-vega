@@ -1,0 +1,1622 @@
+[
+ {
+  "subject": "Security Protocols in Cisco Webex Meetings for Medical Data",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Billing and Payments",
+   "ok": false,
+   "exact": false,
+   "conf": 0.201,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.444,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.998,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Inquiry on Payment Options for Annual Subscription",
+  "queue": {
+   "pred": "Billing and Payments",
+   "gold": "Billing and Payments",
+   "ok": true,
+   "exact": true,
+   "conf": 0.996,
+   "abstain": false
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.448,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.982,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Enhancing Adobe Photoshop Marketing Techniques",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Billing and Payments",
+   "ok": false,
+   "exact": false,
+   "conf": 0.288,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 2,
+   "ok": true,
+   "exact": false,
+   "conf": 0.42,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.977,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Assistance with Investment Strategies",
+  "queue": {
+   "pred": "Customer Service",
+   "gold": "Billing and Payments",
+   "ok": false,
+   "exact": false,
+   "conf": 0.213,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.437,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.99,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Billing Discrepancy Inquiry",
+  "queue": {
+   "pred": "Billing and Payments",
+   "gold": "Billing and Payments",
+   "ok": true,
+   "exact": true,
+   "conf": 0.997,
+   "abstain": false
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.39,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.795,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Digital Marketing Strategies for Brand Growth and Expansion",
+  "queue": {
+   "pred": "Customer Service",
+   "gold": "Billing and Payments",
+   "ok": false,
+   "exact": false,
+   "conf": 0.214,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.422,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.982,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Digital Strategy Enhancement for Brand Growth",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "exact": false,
+   "conf": 0.291,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.433,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 0.999,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Inquiry on Features",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "exact": false,
+   "conf": 0.261,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.447,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.992,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Data Security Concerns in Hospital Infrastructure",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "exact": false,
+   "conf": 0.305,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.436,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.935,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Boost Security of Medical Data Through Enhanced Encryption",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "exact": false,
+   "conf": 0.192,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.435,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 0.998,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Query Regarding Digital Marketing Services",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "exact": false,
+   "conf": 0.208,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.427,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.982,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Application Crashes: Urgent Support",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "exact": false,
+   "conf": 0.365,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 1,
+   "ok": false,
+   "exact": false,
+   "conf": 0.424,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.583,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "Customer Service Inquiry",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "General Inquiry",
+   "ok": false,
+   "exact": false,
+   "conf": 0.252,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 3,
+   "ok": true,
+   "exact": false,
+   "conf": 0.42,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.794,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support Request: Issue with Integrating SendGrid, GitHub, an",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "General Inquiry",
+   "ok": false,
+   "exact": false,
+   "conf": 0.384,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 1,
+   "ok": false,
+   "exact": false,
+   "conf": 0.437,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Change",
+   "ok": false,
+   "exact": false,
+   "conf": 0.673,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Request for Cybersecurity Protocols for Medical Data Securit",
+  "queue": {
+   "pred": "Customer Service",
+   "gold": "General Inquiry",
+   "ok": false,
+   "exact": false,
+   "conf": 0.244,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.445,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.995,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Security Concern with API",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "General Inquiry",
+   "ok": false,
+   "exact": false,
+   "conf": 0.335,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.433,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.921,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Improving Agile Microservices Processes",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "General Inquiry",
+   "ok": false,
+   "exact": false,
+   "conf": 0.267,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 1,
+   "ok": false,
+   "exact": false,
+   "conf": 0.399,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 1.0,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Strategies for Promoting a Smart Home Hub",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "General Inquiry",
+   "ok": false,
+   "exact": false,
+   "conf": 0.206,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.45,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.99,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support Needed for ActiveCampaign and Squarespace Integratio",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Human Resources",
+   "ok": false,
+   "exact": false,
+   "conf": 0.293,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 2,
+   "ok": true,
+   "exact": false,
+   "conf": 0.43,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.981,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Concerns About Team Communication",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "Human Resources",
+   "ok": false,
+   "exact": false,
+   "conf": 0.201,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.45,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.618,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Human Resources",
+   "ok": false,
+   "exact": false,
+   "conf": 0.27,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.441,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.741,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support for New Users in Project Management SaaS",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "Human Resources",
+   "ok": false,
+   "exact": false,
+   "conf": 0.216,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.452,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.986,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Medical Data Breach Due to Firewall Issues",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Human Resources",
+   "ok": false,
+   "exact": false,
+   "conf": 0.332,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.412,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.896,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Human Resources",
+   "ok": false,
+   "exact": false,
+   "conf": 0.2,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.446,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.997,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Setback in Digital Marketing Performance",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "IT Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.236,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 3,
+   "ok": true,
+   "exact": false,
+   "conf": 0.439,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.896,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Improving Online Security with Bitdefender",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "IT Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.27,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.383,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.975,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support for Security Incident Involving Medical Data",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "IT Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.319,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.404,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.641,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support Request for Docker",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "IT Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.246,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 3,
+   "ok": true,
+   "exact": false,
+   "conf": 0.415,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.916,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Concern About SaaS Platform Performance Today",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "IT Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.411,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 3,
+   "ok": true,
+   "exact": true,
+   "conf": 0.516,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.513,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "Request for Support on Project Optimization",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "IT Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.34,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.384,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 0.981,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Failure of Investment Tool",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Product Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.334,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 2,
+   "ok": true,
+   "exact": false,
+   "conf": 0.391,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.704,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Issues with Synchronization between Smartsheet and JIRA",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Product Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.363,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.41,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.889,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Immediate Help Needed for Stability Concerns on Cloud-Based ",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Product Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.279,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.418,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Problem",
+   "ok": false,
+   "exact": false,
+   "conf": 0.68,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support Needed for Database Performance Issue",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Product Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.444,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 2,
+   "ok": true,
+   "exact": false,
+   "conf": 0.426,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.611,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Concerns Regarding Optimization Software Performance",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Product Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.37,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.43,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.874,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support for Enhanced Brand Engagement",
+  "queue": {
+   "pred": "Customer Service",
+   "gold": "Product Support",
+   "ok": false,
+   "exact": false,
+   "conf": 0.264,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.41,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.832,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "exact": false,
+   "conf": 0.225,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.429,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.988,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "exact": false,
+   "conf": 0.262,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.399,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.939,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Denied Access to Medical Information",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "exact": false,
+   "conf": 0.352,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 1,
+   "ok": false,
+   "exact": false,
+   "conf": 0.438,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Incident",
+   "ok": true,
+   "exact": true,
+   "conf": 0.577,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "exact": true,
+   "conf": 0.411,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.439,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.517,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "exact": false,
+   "conf": 0.283,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.432,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.786,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Problem with Connecting HyperX Cloud II Wireless Headset",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "exact": false,
+   "conf": 0.357,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.447,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.911,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Support Request for Data Breach",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "exact": false,
+   "conf": 0.272,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.408,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.767,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Request for Data Analytics Solutions to Optimize Investment ",
+  "queue": {
+   "pred": "Customer Service",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "exact": false,
+   "conf": 0.281,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.449,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.993,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "exact": false,
+   "conf": 0.226,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.405,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 0.994,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Sales and Pre-Sales",
+   "ok": true,
+   "exact": true,
+   "conf": 0.244,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.432,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 0.998,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Issue with OBS Studio Integration",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "exact": false,
+   "conf": 0.411,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.417,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.888,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "System Update, Multiple Software Applications Failed Secure ",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "exact": false,
+   "conf": 0.199,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 1,
+   "ok": true,
+   "exact": false,
+   "conf": 0.422,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Incident",
+   "ok": true,
+   "exact": true,
+   "conf": 0.534,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "Digital Campaigns Achieving Anticipated Engagement Outcomes",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "Service Outages and Maintenance",
+   "ok": false,
+   "exact": false,
+   "conf": 0.241,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 3,
+   "ok": true,
+   "exact": false,
+   "conf": 0.434,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.629,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Enhance Database Speed and Capacity",
+  "queue": {
+   "pred": "IT Support",
+   "gold": "Service Outages and Maintenance",
+   "ok": false,
+   "exact": false,
+   "conf": 0.318,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 3,
+   "ok": true,
+   "exact": true,
+   "conf": 0.488,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 1.0,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Data Feed Problem Noted",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Service Outages and Maintenance",
+   "ok": false,
+   "exact": false,
+   "conf": 0.269,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 3,
+   "ok": true,
+   "exact": false,
+   "conf": 0.42,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Incident",
+   "ok": true,
+   "exact": true,
+   "conf": 0.641,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Concern Regarding Medical Data Access System",
+  "queue": {
+   "pred": "Service Outages and Maintenance",
+   "gold": "Service Outages and Maintenance",
+   "ok": true,
+   "exact": true,
+   "conf": 0.237,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "low",
+   "gold": 1,
+   "ok": true,
+   "exact": true,
+   "conf": 0.42,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Incident",
+   "ok": true,
+   "exact": true,
+   "conf": 0.847,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "nan",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Service Outages and Maintenance",
+   "ok": false,
+   "exact": false,
+   "conf": 0.36,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 3,
+   "ok": true,
+   "exact": true,
+   "conf": 0.487,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Incident",
+   "ok": true,
+   "exact": true,
+   "conf": 0.692,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Suggestion for Modifying Project Management System",
+  "queue": {
+   "pred": "Product Support",
+   "gold": "Service Outages and Maintenance",
+   "ok": false,
+   "exact": false,
+   "conf": 0.274,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.434,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 0.999,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Enhance Security Protocols for Medical Data Access",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "exact": true,
+   "conf": 0.267,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.46,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Change",
+   "gold": "Change",
+   "ok": true,
+   "exact": true,
+   "conf": 1.0,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Concerns About Digital Marketing Tools",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "exact": true,
+   "conf": 0.505,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 3,
+   "ok": true,
+   "exact": true,
+   "conf": 0.483,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Problem",
+   "ok": false,
+   "exact": false,
+   "conf": 0.526,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "Crash Issue with Project Dashboard",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "exact": true,
+   "conf": 0.43,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "high",
+   "gold": 3,
+   "ok": true,
+   "exact": true,
+   "conf": 0.406,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Problem",
+   "ok": true,
+   "exact": true,
+   "conf": 0.617,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Request for Support on Zoom Connection Issues",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "exact": true,
+   "conf": 0.333,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.441,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Incident",
+   "gold": "Incident",
+   "ok": true,
+   "exact": true,
+   "conf": 0.502,
+   "abstain": true
+  }
+ },
+ {
+  "subject": "Assistance with Docker Cassandra Integration",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "exact": true,
+   "conf": 0.236,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 2,
+   "ok": true,
+   "exact": true,
+   "conf": 0.388,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Request",
+   "gold": "Request",
+   "ok": true,
+   "exact": true,
+   "conf": 0.956,
+   "abstain": false
+  }
+ },
+ {
+  "subject": "Problem with Access to Patient Data",
+  "queue": {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "exact": true,
+   "conf": 0.339,
+   "abstain": true
+  },
+  "priority": {
+   "pred": "medium",
+   "gold": 3,
+   "ok": true,
+   "exact": false,
+   "conf": 0.387,
+   "abstain": true
+  },
+  "type": {
+   "pred": "Problem",
+   "gold": "Incident",
+   "ok": false,
+   "exact": false,
+   "conf": 0.575,
+   "abstain": true
+  }
+ }
+]

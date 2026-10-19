@@ -15,9 +15,7 @@ data/
 *.bson
 *.bson.gz
 
-# --- run artifacts you may or may not want to commit ---
-# results/ is small JSON and worth committing; remove the line below if so
-results/
+# --- run artifacts: results/ IS committed (small JSONs backing the README) ---
 
 # --- os / editor ---
 .DS_Store

@@ -1,0 +1,493 @@
+{
+ "summary": {
+  "n_eval": 60,
+  "queue_acc_zero_shot_baseline": 0.183,
+  "queue_acc_after_fit": 0.7,
+  "readouts_used": {
+   "ttt": 60
+  },
+  "abstains": 0
+ },
+ "rows": [
+  {
+   "pred": "Customer Service",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.256
+  },
+  {
+   "pred": "General Inquiry",
+   "gold": "General Inquiry",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Customer Service",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.547
+  },
+  {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Sales and Pre-Sales",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Sales and Pre-Sales",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.433
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Product Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Customer Service",
+   "gold": "Customer Service",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.953
+  },
+  {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.955
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Service Outages and Maintenance",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.818
+  },
+  {
+   "pred": "Customer Service",
+   "gold": "Customer Service",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.953
+  },
+  {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.955
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.955
+  },
+  {
+   "pred": "IT Support",
+   "gold": "IT Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.95
+  },
+  {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.955
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.315
+  },
+  {
+   "pred": "Service Outages and Maintenance",
+   "gold": "Service Outages and Maintenance",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.933
+  },
+  {
+   "pred": "General Inquiry",
+   "gold": "General Inquiry",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Product Support",
+   "gold": "General Inquiry",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.551
+  },
+  {
+   "pred": "Product Support",
+   "gold": "IT Support",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.214
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "Human Resources",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.955
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Product Support",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.338
+  },
+  {
+   "pred": "IT Support",
+   "gold": "Billing and Payments",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.314
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "IT Support",
+   "gold": "IT Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.95
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Service Outages and Maintenance",
+   "gold": "Service Outages and Maintenance",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Sales and Pre-Sales",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Sales and Pre-Sales",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.503
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "Returns and Exchanges",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.431
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Product Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "IT Support",
+   "gold": "IT Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.242
+  },
+  {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Technical Support",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.263
+  },
+  {
+   "pred": "Customer Service",
+   "gold": "Technical Support",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.26
+  },
+  {
+   "pred": "Billing and Payments",
+   "gold": "Billing and Payments",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Technical Support",
+   "gold": "Technical Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Customer Service",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.31
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Product Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Service Outages and Maintenance",
+   "gold": "Service Outages and Maintenance",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Sales and Pre-Sales",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Product Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "General Inquiry",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.421
+  },
+  {
+   "pred": "Customer Service",
+   "gold": "Customer Service",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.953
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "Human Resources",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Service Outages and Maintenance",
+   "gold": "IT Support",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.732
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "Human Resources",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Returns and Exchanges",
+   "gold": "Returns and Exchanges",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.955
+  },
+  {
+   "pred": "Product Support",
+   "gold": "Product Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "Billing and Payments",
+   "gold": "Billing and Payments",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "General Inquiry",
+   "gold": "Billing and Payments",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.323
+  },
+  {
+   "pred": "Human Resources",
+   "gold": "Human Resources",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.954
+  },
+  {
+   "pred": "IT Support",
+   "gold": "IT Support",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.95
+  },
+  {
+   "pred": "IT Support",
+   "gold": "Product Support",
+   "ok": false,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.288
+  },
+  {
+   "pred": "General Inquiry",
+   "gold": "General Inquiry",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  },
+  {
+   "pred": "Sales and Pre-Sales",
+   "gold": "Sales and Pre-Sales",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.654
+  },
+  {
+   "pred": "General Inquiry",
+   "gold": "General Inquiry",
+   "ok": true,
+   "readout": "ttt",
+   "abstain": false,
+   "conf": 0.952
+  }
+ ]
+}

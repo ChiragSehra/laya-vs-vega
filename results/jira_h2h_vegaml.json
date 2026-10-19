@@ -1,0 +1,64 @@
+{
+ "issue-disjoint": {
+  "n_train": 120,
+  "n_eval": 100,
+  "fit_seconds": 466,
+  "fit_report": {
+   "issuetype": {
+    "fitted": true,
+    "examples": 120,
+    "cv_accuracy": 0.6666666666666666,
+    "engine_accuracy": 0.3504273504273504,
+    "chance": 0.167,
+    "at_or_below_chance": false,
+    "used_by_auto": true
+   },
+   "priority": {
+    "fitted": true,
+    "examples": 120,
+    "cv_accuracy": 0.7217391304347827,
+    "engine_accuracy": 0.46956521739130436,
+    "chance": 0.2,
+    "at_or_below_chance": false,
+    "used_by_auto": true
+   }
+  },
+  "issuetype_acc": 0.71,
+  "priority_acc_adj1": 0.92,
+  "priority_acc_exact": 0.64,
+  "readouts": {
+   "ttt": 100
+  }
+ },
+ "project-disjoint": {
+  "n_train": 120,
+  "n_eval": 100,
+  "fit_seconds": 431,
+  "fit_report": {
+   "issuetype": {
+    "fitted": true,
+    "examples": 120,
+    "cv_accuracy": 0.7033898305084746,
+    "engine_accuracy": 0.4152542372881356,
+    "chance": 0.167,
+    "at_or_below_chance": false,
+    "used_by_auto": true
+   },
+   "priority": {
+    "fitted": true,
+    "examples": 120,
+    "cv_accuracy": 0.6551724137931034,
+    "engine_accuracy": 0.49137931034482757,
+    "chance": 0.2,
+    "at_or_below_chance": false,
+    "used_by_auto": true
+   }
+  },
+  "issuetype_acc": 0.75,
+  "priority_acc_adj1": 0.9,
+  "priority_acc_exact": 0.55,
+  "readouts": {
+   "ttt": 100
+  }
+ }
+}

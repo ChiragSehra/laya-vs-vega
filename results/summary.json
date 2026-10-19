@@ -1,0 +1,20 @@
+{
+ "model": "vega-U (Qwen3.5-0.8B reader), engine readout, zero-shot",
+ "support_tickets": {
+  "n": 60,
+  "seconds": 144.8,
+  "ms_per_ticket": 2413,
+  "queue_acc": 0.183,
+  "type_acc": 0.7,
+  "priority_acc_adj1": 0.933,
+  "priority_acc_exact": 0.483,
+  "queue_abstain": 58,
+  "priority_abstain": 60,
+  "type_abstain": 8
+ },
+ "emotion": {
+  "n": 100,
+  "accuracy": 0.42,
+  "median_ms": 331
+ }
+}
